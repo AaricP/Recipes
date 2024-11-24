@@ -9,3 +9,11 @@
 2024-11-24 02:37:18.024 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
 2024-11-24 02:37:18.712 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
 2024-11-24 02:45:20.448 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2795
+2024-11-24 02:45:21.353 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2795
+2024-11-24 02:45:23.317 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2795
+2024-11-24 02:45:28.423 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2795
+2024-11-24 02:45:30.467 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-11-24 02:45:33.561 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2798
+2024-11-24 02:45:36.076 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-24 02:45:36.076 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-24 02:45:36.076 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
