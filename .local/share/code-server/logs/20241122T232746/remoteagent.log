@@ -1,0 +1,25 @@
+2024-11-22 23:27:46.194 [info] 
+
+
+
+
+2024-11-22 23:27:46.211 [info] Extension host agent started.
+2024-11-22 23:27:46.244 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.local/share/code-server/extensions
+2024-11-22 23:27:46.255 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.local/share/code-server/extensions
+2024-11-22 23:27:52.880 [info] [<unknown>][3fbfc3d8][ManagementConnection] New connection established.
+2024-11-22 23:27:55.554 [info] [<unknown>][78528684][ExtensionHostConnection] New connection established.
+2024-11-22 23:27:56.182 [info] [<unknown>][78528684][ExtensionHostConnection] <13266> Launched Extension Host Process.
+2024-11-22 23:27:56.403 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///var/app/code-server/lib/vscode/out/server-main.js:187:1327)
+    at process.emit (node:events:531:35)
+2024-11-22 23:37:46.100 [info] [<unknown>][cc8cbe5b][ManagementConnection] New connection established.
+2024-11-22 23:37:49.170 [info] [<unknown>][3a279a13][ExtensionHostConnection] New connection established.
+2024-11-22 23:37:49.225 [info] [<unknown>][3a279a13][ExtensionHostConnection] <25714> Launched Extension Host Process.
+2024-11-22 23:37:56.840 [info] [<unknown>][cc8cbe5b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-22 23:38:03.935 [info] [<unknown>][3fbfc3d8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-22 23:38:07.391 [info] [<unknown>][b2e56998][ManagementConnection] New connection established.
+2024-11-22 23:38:09.453 [info] [<unknown>][cf6e73ae][ExtensionHostConnection] New connection established.
+2024-11-22 23:38:09.500 [info] [<unknown>][cf6e73ae][ExtensionHostConnection] <26884> Launched Extension Host Process.
+2024-11-22 23:43:07.591 [info] [<unknown>][78528684][ExtensionHostConnection] <13266> Extension Host Process exited with code: 0, signal: null.
+2024-11-22 23:43:07.651 [info] [<unknown>][3a279a13][ExtensionHostConnection] <25714> Extension Host Process exited with code: 0, signal: null.
+2024-11-23 00:18:54.996 [info] [<unknown>][b2e56998][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

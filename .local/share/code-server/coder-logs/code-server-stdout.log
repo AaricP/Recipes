@@ -1,0 +1,202 @@
+[2024-11-22T23:26:05.559Z] info  code-server 4.95.3 b0c935a6e0742adde9f7a5f6e5816553ee0e7ffb
+[2024-11-22T23:26:05.568Z] info  Using user-data-dir /home/ubuntu/.local/share/code-server
+[2024-11-22T23:26:05.622Z] info  Using config file /home/ubuntu/.config/code-server/config.yaml
+[2024-11-22T23:26:05.622Z] info  HTTPS server listening on https://0.0.0.0:8080/
+[2024-11-22T23:26:05.622Z] info    - Authentication is enabled
+[2024-11-22T23:26:05.622Z] info      - Using password from /home/ubuntu/.config/code-server/config.yaml
+[2024-11-22T23:26:05.622Z] info    - Using certificate for HTTPS: /home/ubuntu/.config/code-server/selfsigned.crt
+[2024-11-22T23:26:05.622Z] info  Session server listening on /home/ubuntu/.local/share/code-server/code-server-ipc.sock
+[23:27:46] 
+
+
+
+
+[23:27:46] Extension host agent started.
+[23:27:46] Started initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.local/share/code-server/extensions
+[23:27:46] Completed initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.local/share/code-server/extensions
+[23:27:52] [<unknown>][3fbfc3d8][ManagementConnection] New connection established.
+[23:27:55] [<unknown>][78528684][ExtensionHostConnection] New connection established.
+[23:27:56] [<unknown>][78528684][ExtensionHostConnection] <13266> Launched Extension Host Process.
+[23:37:46] [<unknown>][cc8cbe5b][ManagementConnection] New connection established.
+[23:37:49] [<unknown>][3a279a13][ExtensionHostConnection] New connection established.
+[23:37:49] [<unknown>][3a279a13][ExtensionHostConnection] <25714> Launched Extension Host Process.
+[23:37:56] [<unknown>][cc8cbe5b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[23:38:03] [<unknown>][3fbfc3d8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[23:38:07] [<unknown>][b2e56998][ManagementConnection] New connection established.
+[23:38:09] [<unknown>][cf6e73ae][ExtensionHostConnection] New connection established.
+[23:38:09] [<unknown>][cf6e73ae][ExtensionHostConnection] <26884> Launched Extension Host Process.
+[23:43:07] [<unknown>][78528684][ExtensionHostConnection] <13266> Extension Host Process exited with code: 0, signal: null.
+[23:43:07] [<unknown>][3a279a13][ExtensionHostConnection] <25714> Extension Host Process exited with code: 0, signal: null.
+[00:18:54] [<unknown>][b2e56998][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2024-11-23T00:22:27.898Z] info  code-server 4.95.3 b0c935a6e0742adde9f7a5f6e5816553ee0e7ffb
+[2024-11-23T00:22:27.916Z] info  Using user-data-dir /home/ubuntu/.local/share/code-server
+[2024-11-23T00:22:27.989Z] info  Using config file /home/ubuntu/.config/code-server/config.yaml
+[2024-11-23T00:22:27.989Z] info  HTTPS server listening on https://0.0.0.0:8080/
+[2024-11-23T00:22:27.989Z] info    - Authentication is enabled
+[2024-11-23T00:22:27.990Z] info      - Using password from /home/ubuntu/.config/code-server/config.yaml
+[2024-11-23T00:22:27.990Z] info    - Using certificate for HTTPS: /home/ubuntu/.config/code-server/selfsigned.crt
+[2024-11-23T00:22:27.990Z] info  Session server listening on /home/ubuntu/.local/share/code-server/code-server-ipc.sock
+[00:28:40] 
+
+
+
+
+[00:28:41] Extension host agent started.
+[00:28:50] [<unknown>][564fdc27][ManagementConnection] New connection established.
+[00:28:53] [<unknown>][f16caef0][ExtensionHostConnection] New connection established.
+[00:28:53] [<unknown>][f16caef0][ExtensionHostConnection] <2353> Launched Extension Host Process.
+[00:56:50] [<unknown>][564fdc27][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[00:56:53] [<unknown>][33415cc7][ManagementConnection] New connection established.
+[00:56:55] [<unknown>][59820638][ExtensionHostConnection] New connection established.
+[00:56:55] [<unknown>][59820638][ExtensionHostConnection] <10291> Launched Extension Host Process.
+[2024-11-23T18:44:02.053Z] info  code-server 4.95.3 b0c935a6e0742adde9f7a5f6e5816553ee0e7ffb
+[2024-11-23T18:44:02.072Z] info  Using user-data-dir /home/ubuntu/.local/share/code-server
+[2024-11-23T18:44:02.144Z] info  Using config file /home/ubuntu/.config/code-server/config.yaml
+[2024-11-23T18:44:02.145Z] info  HTTPS server listening on https://0.0.0.0:8080/
+[2024-11-23T18:44:02.145Z] info    - Authentication is enabled
+[2024-11-23T18:44:02.145Z] info      - Using password from /home/ubuntu/.config/code-server/config.yaml
+[2024-11-23T18:44:02.145Z] info    - Using certificate for HTTPS: /home/ubuntu/.config/code-server/selfsigned.crt
+[2024-11-23T18:44:02.145Z] info  Session server listening on /home/ubuntu/.local/share/code-server/code-server-ipc.sock
+[18:45:30] 
+
+
+
+
+[18:45:30] Extension host agent started.
+[18:45:38] [<unknown>][7b223c11][ManagementConnection] New connection established.
+[18:45:41] [<unknown>][47863315][ExtensionHostConnection] New connection established.
+[18:45:42] [<unknown>][47863315][ExtensionHostConnection] <2326> Launched Extension Host Process.
+[18:58:56] [<unknown>][7b223c11][ManagementConnection] The client has reconnected.
+[18:58:57] [<unknown>][7b223c11][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[18:59:00] [<unknown>][f584c8f3][ManagementConnection] New connection established.
+[18:59:01] [<unknown>][947f0628][ExtensionHostConnection] New connection established.
+[18:59:01] [<unknown>][947f0628][ExtensionHostConnection] <7871> Launched Extension Host Process.
+[2024-11-23T19:07:34.645Z] info  code-server 4.95.3 b0c935a6e0742adde9f7a5f6e5816553ee0e7ffb
+[2024-11-23T19:07:34.664Z] info  Using user-data-dir /home/ubuntu/.local/share/code-server
+[2024-11-23T19:07:34.733Z] info  Using config file /home/ubuntu/.config/code-server/config.yaml
+[2024-11-23T19:07:34.734Z] info  HTTPS server listening on https://0.0.0.0:8080/
+[2024-11-23T19:07:34.734Z] info    - Authentication is enabled
+[2024-11-23T19:07:34.734Z] info      - Using password from /home/ubuntu/.config/code-server/config.yaml
+[2024-11-23T19:07:34.734Z] info    - Using certificate for HTTPS: /home/ubuntu/.config/code-server/selfsigned.crt
+[2024-11-23T19:07:34.734Z] info  Session server listening on /home/ubuntu/.local/share/code-server/code-server-ipc.sock
+[19:09:05] 
+
+
+
+
+[19:09:06] Extension host agent started.
+[19:09:14] [<unknown>][2da1655c][ManagementConnection] New connection established.
+[19:09:17] [<unknown>][a37cd91a][ExtensionHostConnection] New connection established.
+[19:09:18] [<unknown>][a37cd91a][ExtensionHostConnection] <2322> Launched Extension Host Process.
+[21:00:46] [<unknown>][2da1655c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2024-11-23T21:05:24.281Z] info  code-server 4.95.3 b0c935a6e0742adde9f7a5f6e5816553ee0e7ffb
+[2024-11-23T21:05:24.297Z] info  Using user-data-dir /home/ubuntu/.local/share/code-server
+[2024-11-23T21:05:24.364Z] info  Using config file /home/ubuntu/.config/code-server/config.yaml
+[2024-11-23T21:05:24.364Z] info  HTTPS server listening on https://0.0.0.0:8080/
+[2024-11-23T21:05:24.364Z] info    - Authentication is enabled
+[2024-11-23T21:05:24.364Z] info      - Using password from /home/ubuntu/.config/code-server/config.yaml
+[2024-11-23T21:05:24.365Z] info    - Using certificate for HTTPS: /home/ubuntu/.config/code-server/selfsigned.crt
+[2024-11-23T21:05:24.365Z] info  Session server listening on /home/ubuntu/.local/share/code-server/code-server-ipc.sock
+[21:05:53] 
+
+
+
+
+[21:05:53] Extension host agent started.
+[21:05:59] [<unknown>][1500cec1][ManagementConnection] New connection established.
+[21:06:03] [<unknown>][15b6a86b][ExtensionHostConnection] New connection established.
+[21:06:03] [<unknown>][15b6a86b][ExtensionHostConnection] <2333> Launched Extension Host Process.
+[21:06:51] [<unknown>][9f53e937][ManagementConnection] New connection established.
+[21:06:54] [<unknown>][102b2b87][ExtensionHostConnection] New connection established.
+[21:06:54] [<unknown>][102b2b87][ExtensionHostConnection] <3636> Launched Extension Host Process.
+[21:06:55] [<unknown>][9f53e937][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2024-11-23T21:54:46.980Z] info  code-server 4.95.3 b0c935a6e0742adde9f7a5f6e5816553ee0e7ffb
+[2024-11-23T21:54:46.997Z] info  Using user-data-dir /home/ubuntu/.local/share/code-server
+[2024-11-23T21:54:47.064Z] info  Using config file /home/ubuntu/.config/code-server/config.yaml
+[2024-11-23T21:54:47.065Z] info  HTTPS server listening on https://0.0.0.0:8080/
+[2024-11-23T21:54:47.065Z] info    - Authentication is enabled
+[2024-11-23T21:54:47.065Z] info      - Using password from /home/ubuntu/.config/code-server/config.yaml
+[2024-11-23T21:54:47.065Z] info    - Using certificate for HTTPS: /home/ubuntu/.config/code-server/selfsigned.crt
+[2024-11-23T21:54:47.065Z] info  Session server listening on /home/ubuntu/.local/share/code-server/code-server-ipc.sock
+[21:55:18] 
+
+
+
+
+[21:55:18] Extension host agent started.
+[21:55:27] [<unknown>][65939620][ManagementConnection] New connection established.
+[21:55:31] [<unknown>][4797fac2][ExtensionHostConnection] New connection established.
+[21:55:31] [<unknown>][4797fac2][ExtensionHostConnection] <2330> Launched Extension Host Process.
+[22:24:52] [<unknown>][65939620][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2024-11-23T22:26:14.774Z] info  code-server 4.95.3 b0c935a6e0742adde9f7a5f6e5816553ee0e7ffb
+[2024-11-23T22:26:14.792Z] info  Using user-data-dir /home/ubuntu/.local/share/code-server
+[2024-11-23T22:26:14.859Z] info  Using config file /home/ubuntu/.config/code-server/config.yaml
+[2024-11-23T22:26:14.859Z] info  HTTPS server listening on https://0.0.0.0:8080/
+[2024-11-23T22:26:14.859Z] info    - Authentication is enabled
+[2024-11-23T22:26:14.859Z] info      - Using password from /home/ubuntu/.config/code-server/config.yaml
+[2024-11-23T22:26:14.859Z] info    - Using certificate for HTTPS: /home/ubuntu/.config/code-server/selfsigned.crt
+[2024-11-23T22:26:14.859Z] info  Session server listening on /home/ubuntu/.local/share/code-server/code-server-ipc.sock
+[22:27:03] 
+
+
+
+
+[22:27:03] Extension host agent started.
+[22:27:10] [<unknown>][e4afb5fa][ManagementConnection] New connection established.
+[22:27:14] [<unknown>][916456ae][ExtensionHostConnection] New connection established.
+[22:27:14] [<unknown>][916456ae][ExtensionHostConnection] <2333> Launched Extension Host Process.
+[23:04:59] [<unknown>][916456ae][ExtensionHostConnection] The client has reconnected.
+[23:05:02] [<unknown>][e4afb5fa][ManagementConnection] The client has reconnected.
+[23:08:02] [<unknown>][e4afb5fa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2024-11-23T23:10:11.236Z] info  code-server 4.95.3 b0c935a6e0742adde9f7a5f6e5816553ee0e7ffb
+[2024-11-23T23:10:11.262Z] info  Using user-data-dir /home/ubuntu/.local/share/code-server
+[2024-11-23T23:10:11.334Z] info  Using config file /home/ubuntu/.config/code-server/config.yaml
+[2024-11-23T23:10:11.335Z] info  HTTPS server listening on https://0.0.0.0:8080/
+[2024-11-23T23:10:11.335Z] info    - Authentication is enabled
+[2024-11-23T23:10:11.335Z] info      - Using password from /home/ubuntu/.config/code-server/config.yaml
+[2024-11-23T23:10:11.335Z] info    - Using certificate for HTTPS: /home/ubuntu/.config/code-server/selfsigned.crt
+[2024-11-23T23:10:11.335Z] info  Session server listening on /home/ubuntu/.local/share/code-server/code-server-ipc.sock
+[23:10:51] 
+
+
+
+
+[23:10:52] Extension host agent started.
+[23:10:59] [<unknown>][46e4761a][ManagementConnection] New connection established.
+[23:11:02] [<unknown>][25ffe417][ExtensionHostConnection] New connection established.
+[23:11:02] [<unknown>][25ffe417][ExtensionHostConnection] <2392> Launched Extension Host Process.
+[2024-11-23T23:54:43.927Z] info  code-server 4.95.3 b0c935a6e0742adde9f7a5f6e5816553ee0e7ffb
+[2024-11-23T23:54:43.946Z] info  Using user-data-dir /home/ubuntu/.local/share/code-server
+[2024-11-23T23:54:44.023Z] info  Using config file /home/ubuntu/.config/code-server/config.yaml
+[2024-11-23T23:54:44.023Z] info  HTTPS server listening on https://0.0.0.0:8080/
+[2024-11-23T23:54:44.024Z] info    - Authentication is enabled
+[2024-11-23T23:54:44.024Z] info      - Using password from /home/ubuntu/.config/code-server/config.yaml
+[2024-11-23T23:54:44.024Z] info    - Using certificate for HTTPS: /home/ubuntu/.config/code-server/selfsigned.crt
+[2024-11-23T23:54:44.024Z] info  Session server listening on /home/ubuntu/.local/share/code-server/code-server-ipc.sock
+[23:55:04] 
+
+
+
+
+[23:55:04] Extension host agent started.
+[23:55:11] [<unknown>][c3abc6df][ManagementConnection] New connection established.
+[23:55:14] [<unknown>][70bed62f][ExtensionHostConnection] New connection established.
+[23:55:14] [<unknown>][70bed62f][ExtensionHostConnection] <2366> Launched Extension Host Process.
+[00:07:40] [<unknown>][c3abc6df][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2024-11-24T02:36:28.556Z] info  code-server 4.95.3 b0c935a6e0742adde9f7a5f6e5816553ee0e7ffb
+[2024-11-24T02:36:28.577Z] info  Using user-data-dir /home/ubuntu/.local/share/code-server
+[2024-11-24T02:36:28.650Z] info  Using config file /home/ubuntu/.config/code-server/config.yaml
+[2024-11-24T02:36:28.651Z] info  HTTPS server listening on https://0.0.0.0:8080/
+[2024-11-24T02:36:28.651Z] info    - Authentication is enabled
+[2024-11-24T02:36:28.651Z] info      - Using password from /home/ubuntu/.config/code-server/config.yaml
+[2024-11-24T02:36:28.651Z] info    - Using certificate for HTTPS: /home/ubuntu/.config/code-server/selfsigned.crt
+[2024-11-24T02:36:28.651Z] info  Session server listening on /home/ubuntu/.local/share/code-server/code-server-ipc.sock
+[02:36:59] 
+
+
+
+
+[02:36:59] Extension host agent started.
+[02:37:08] [<unknown>][29c550cf][ManagementConnection] New connection established.
+[02:37:11] [<unknown>][8f0e5a50][ExtensionHostConnection] New connection established.
+[02:37:12] [<unknown>][8f0e5a50][ExtensionHostConnection] <2385> Launched Extension Host Process.

@@ -1,0 +1,10 @@
+2024-11-23 00:57:01.424 [info] Extension host with pid 10291 started
+2024-11-23 00:57:01.424 [error] Error: EEXIST: file already exists, open '/home/ubuntu/.local/share/code-server/User/workspaceStorage/1630ebf/vscode.lock'
+2024-11-23 00:57:01.430 [info] Lock '/home/ubuntu/.local/share/code-server/User/workspaceStorage/1630ebf/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-11-23 00:57:01.479 [info] Lock '/home/ubuntu/.local/share/code-server/User/workspaceStorage/1630ebf/vscode.lock': The lock does not look stale, elapsed: 701 ms, giving up.
+2024-11-23 00:57:01.501 [info] Lock '/home/ubuntu/.local/share/code-server/User/workspaceStorage/1630ebf-1/vscode.lock': Lock acquired.
+2024-11-23 00:57:01.720 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-23 00:57:01.729 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-11-23 00:57:03.553 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-23 00:57:03.980 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-23 00:57:03.983 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'

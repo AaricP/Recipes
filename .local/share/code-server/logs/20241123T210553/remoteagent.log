@@ -1,0 +1,29 @@
+2024-11-23 21:05:53.510 [info] 
+
+
+
+
+2024-11-23 21:05:53.533 [info] Extension host agent started.
+2024-11-23 21:05:59.982 [info] [<unknown>][1500cec1][ManagementConnection] New connection established.
+2024-11-23 21:06:03.083 [info] [<unknown>][15b6a86b][ExtensionHostConnection] New connection established.
+2024-11-23 21:06:03.102 [info] [<unknown>][15b6a86b][ExtensionHostConnection] <2333> Launched Extension Host Process.
+2024-11-23 21:06:03.473 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///var/app/code-server/lib/vscode/out/server-main.js:187:1327)
+    at process.emit (node:events:531:35)
+2024-11-23 21:06:51.958 [info] [<unknown>][9f53e937][ManagementConnection] New connection established.
+2024-11-23 21:06:54.391 [info] [<unknown>][102b2b87][ExtensionHostConnection] New connection established.
+2024-11-23 21:06:54.411 [info] [<unknown>][102b2b87][ExtensionHostConnection] <3636> Launched Extension Host Process.
+2024-11-23 21:06:55.740 [warning] RequestStore#acceptReply was called without receiving a matching request 13
+2024-11-23 21:06:55.744 [warning] RequestStore#acceptReply was called without receiving a matching request 14
+2024-11-23 21:06:55.744 [warning] RequestStore#acceptReply was called without receiving a matching request 15
+2024-11-23 21:06:55.744 [warning] RequestStore#acceptReply was called without receiving a matching request 16
+2024-11-23 21:06:55.744 [warning] RequestStore#acceptReply was called without receiving a matching request 17
+2024-11-23 21:06:55.745 [warning] RequestStore#acceptReply was called without receiving a matching request 18
+2024-11-23 21:06:55.745 [warning] RequestStore#acceptReply was called without receiving a matching request 19
+2024-11-23 21:06:55.745 [warning] RequestStore#acceptReply was called without receiving a matching request 20
+2024-11-23 21:06:55.747 [warning] RequestStore#acceptReply was called without receiving a matching request 21
+2024-11-23 21:06:55.748 [warning] RequestStore#acceptReply was called without receiving a matching request 22
+2024-11-23 21:06:55.748 [warning] RequestStore#acceptReply was called without receiving a matching request 23
+2024-11-23 21:06:55.748 [warning] RequestStore#acceptReply was called without receiving a matching request 24
+2024-11-23 21:06:55.801 [info] [<unknown>][9f53e937][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-23 21:52:20.011 [warning] No ptyHost heartbeat after 6 seconds

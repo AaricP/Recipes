@@ -1,0 +1,115 @@
+2024-11-24 02:37:17.456 [info] [main] Log level: Info
+2024-11-24 02:37:17.456 [info] [main] Validating found git in: "git"
+2024-11-24 02:37:17.456 [info] [main] Using git "2.43.0" from "git"
+2024-11-24 02:37:17.456 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-24 02:37:17.456 [info] > git rev-parse --show-toplevel [118ms]
+2024-11-24 02:37:17.456 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-24 02:37:17.461 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-24 02:37:17.461 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-24 02:37:17.481 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-24 02:37:17.481 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-24 02:37:17.499 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-24 02:37:17.499 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-24 02:37:17.515 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-24 02:37:17.515 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-24 02:37:17.549 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-24 02:37:17.549 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-24 02:37:17.569 [info] > git rev-parse --show-toplevel [11ms]
+2024-11-24 02:37:17.569 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-24 02:37:17.587 [info] > git rev-parse --show-toplevel [10ms]
+2024-11-24 02:37:17.624 [info] > git rev-parse --git-dir --git-common-dir [16ms]
+2024-11-24 02:37:17.718 [info] [Model][openRepository] Opened repository: /home/ubuntu/django-example-fall-2024
+2024-11-24 02:37:17.751 [info] > git config --get commit.template [12ms]
+2024-11-24 02:37:17.769 [info] > git rev-parse --show-toplevel [22ms]
+2024-11-24 02:37:17.790 [info] > git rev-parse --git-dir --git-common-dir [13ms]
+2024-11-24 02:37:17.811 [info] [Model][openRepository] Opened repository: /home/ubuntu/ec2_scripts
+2024-11-24 02:37:17.835 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [71ms]
+2024-11-24 02:37:17.878 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ubuntu/django-example-fall-2024/.git/refs/remotes/origin/master'
+2024-11-24 02:37:17.890 [info] > git rev-parse --show-toplevel [21ms]
+2024-11-24 02:37:17.891 [info] > git config --get commit.template [46ms]
+2024-11-24 02:37:17.894 [info] > git rev-parse refs/remotes/origin/master [15ms]
+2024-11-24 02:37:17.931 [info] > git status -z -uall [28ms]
+2024-11-24 02:37:17.932 [info] > git rev-parse --git-dir --git-common-dir [14ms]
+2024-11-24 02:37:17.947 [info] [Model][openRepository] Opened repository: /home/ubuntu/expo-example-fall-2024
+2024-11-24 02:37:17.958 [info] [Model][doInitialScan] Initial repository scan completed - repositories (3), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-24 02:37:17.964 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [52ms]
+2024-11-24 02:37:18.135 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [139ms]
+2024-11-24 02:37:18.172 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [249ms]
+2024-11-24 02:37:18.303 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ubuntu/ec2_scripts/.git/refs/remotes/origin/master'
+2024-11-24 02:37:18.308 [info] > git config --local branch.master.vscode-merge-base [136ms]
+2024-11-24 02:37:18.317 [info] > git config --get commit.template [185ms]
+2024-11-24 02:37:18.321 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [6ms]
+2024-11-24 02:37:18.337 [info] > git rev-parse refs/remotes/origin/master [34ms]
+2024-11-24 02:37:18.349 [info] > git config --get commit.template [54ms]
+2024-11-24 02:37:18.363 [info] > git status -z -uall [19ms]
+2024-11-24 02:37:18.363 [info] > git merge-base refs/heads/master refs/remotes/origin/master [33ms]
+2024-11-24 02:37:18.392 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [33ms]
+2024-11-24 02:37:18.393 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [36ms]
+2024-11-24 02:37:18.395 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [45ms]
+2024-11-24 02:37:18.419 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ubuntu/django-example-fall-2024/.git/refs/remotes/origin/master'
+2024-11-24 02:37:18.424 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ubuntu/expo-example-fall-2024/.git/refs/remotes/origin/master'
+2024-11-24 02:37:18.427 [info] > git diff --name-status -z --diff-filter=ADMR 7fc4ee2e594fcdba1a7e7076085e380abeb619f4...refs/remotes/origin/master [51ms]
+2024-11-24 02:37:18.435 [info] > git rev-parse refs/remotes/origin/master [12ms]
+2024-11-24 02:37:18.449 [info] > git rev-parse refs/remotes/origin/master [30ms]
+2024-11-24 02:37:18.464 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [54ms]
+2024-11-24 02:37:18.474 [info] > git status -z -uall [30ms]
+2024-11-24 02:37:18.474 [info] > git status -z -uall [19ms]
+2024-11-24 02:37:18.474 [info] > git config --local branch.master.vscode-merge-base [5ms]
+2024-11-24 02:37:18.481 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+2024-11-24 02:37:18.490 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [41ms]
+2024-11-24 02:37:18.506 [info] > git config --get commit.template [79ms]
+2024-11-24 02:37:18.524 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [23ms]
+2024-11-24 02:37:18.531 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [50ms]
+2024-11-24 02:37:18.541 [info] > git merge-base refs/heads/master refs/remotes/origin/master [3ms]
+2024-11-24 02:37:18.548 [info] > git config --local branch.master.vscode-merge-base [19ms]
+2024-11-24 02:37:18.552 [info] > git config --get commit.template [31ms]
+2024-11-24 02:37:18.552 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [36ms]
+2024-11-24 02:37:18.559 [info] > git diff --name-status -z --diff-filter=ADMR 49126d879cf67c4458fbdbd4b565eee2fb0f0b00...refs/remotes/origin/master [11ms]
+2024-11-24 02:37:18.567 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ubuntu/ec2_scripts/.git/refs/remotes/origin/master'
+2024-11-24 02:37:18.574 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [22ms]
+2024-11-24 02:37:18.582 [info] > git merge-base refs/heads/master refs/remotes/origin/master [4ms]
+2024-11-24 02:37:18.593 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [22ms]
+2024-11-24 02:37:18.593 [info] > git rev-parse refs/remotes/origin/master [26ms]
+2024-11-24 02:37:18.647 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ubuntu/expo-example-fall-2024/.git/refs/remotes/origin/master'
+2024-11-24 02:37:18.650 [info] > git status -z -uall [50ms]
+2024-11-24 02:37:18.650 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [42ms]
+2024-11-24 02:37:18.658 [info] > git diff --name-status -z --diff-filter=ADMR 770f00fa091c6a1d709d80cfac8c21a00c1d7230...refs/remotes/origin/master [68ms]
+2024-11-24 02:37:18.662 [info] > git rev-parse refs/remotes/origin/master [15ms]
+2024-11-24 02:37:18.683 [info] > git status -z -uall [15ms]
+2024-11-24 02:37:18.685 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2024-11-24 02:37:18.954 [info] > git check-ignore -v -z --stdin [34ms]
+2024-11-24 02:37:18.957 [info] > git check-ignore -v -z --stdin [22ms]
+2024-11-24 02:37:18.958 [info] > git check-ignore -v -z --stdin [13ms]
+2024-11-24 02:37:19.484 [info] > git check-ignore -v -z --stdin [13ms]
+2024-11-24 02:37:19.487 [info] > git check-ignore -v -z --stdin [10ms]
+2024-11-24 02:37:19.487 [info] > git check-ignore -v -z --stdin [5ms]
+2024-11-24 02:37:27.025 [info] > git check-ignore -v -z --stdin [2ms]
+2024-11-24 02:37:28.326 [info] > git check-ignore -v -z --stdin [4ms]
+2024-11-24 02:37:29.660 [info] > git ls-files --stage -- /home/ubuntu/django-example-fall-2024/my_demo_project/settings.py [26ms]
+2024-11-24 02:37:29.706 [info] > git show --textconv :my_demo_project/settings.py [120ms]
+2024-11-24 02:37:29.731 [info] > git cat-file -s 4ae5f7ce495f263d5a6142a367ee3ce68f32e862 [39ms]
+2024-11-24 02:37:36.923 [info] > git show --textconv :my_demo_project/urls.py [4ms]
+2024-11-24 02:37:36.925 [info] > git ls-files --stage -- /home/ubuntu/django-example-fall-2024/my_demo_project/urls.py [2ms]
+2024-11-24 02:37:36.928 [info] > git cat-file -s 6fb18eb06bf8dfa99b1ea84e669802ce906178fe [1ms]
+2024-11-24 02:37:52.721 [info] > git check-ignore -v -z --stdin [3ms]
+2024-11-24 02:37:56.965 [info] > git show --textconv :vscode_server_install.sh [43ms]
+2024-11-24 02:37:56.976 [info] > git ls-files --stage -- /home/ubuntu/ec2_scripts/vscode_server_install.sh [12ms]
+2024-11-24 02:37:57.013 [info] > git cat-file -s 0bc11aa2f0a1cfc86a0c8b1f36eb7c7481e30f62 [24ms]
+2024-11-24 02:38:02.127 [info] > git show --textconv :installTools.sh [4ms]
+2024-11-24 02:38:02.129 [info] > git ls-files --stage -- /home/ubuntu/ec2_scripts/installTools.sh [3ms]
+2024-11-24 02:38:02.134 [info] > git cat-file -s 4ad2846ecce7ec606177f05da091f1673537648b [2ms]
+2024-11-24 02:38:04.580 [info] > git show --textconv :vscode_server_install.sh [6ms]
+2024-11-24 02:38:04.580 [info] > git ls-files --stage -- /home/ubuntu/ec2_scripts/vscode_server_install.sh [2ms]
+2024-11-24 02:38:04.586 [info] > git cat-file -s 0bc11aa2f0a1cfc86a0c8b1f36eb7c7481e30f62 [3ms]
+2024-11-24 02:38:45.729 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-24 02:38:45.729 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-24 02:39:08.753 [info] > git check-ignore -v -z --stdin [2ms]
+2024-11-24 02:45:20.255 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-24 02:45:20.261 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-11-24 02:45:20.268 [info] [Model][openRepository] Opened repository: /home/ubuntu
+2024-11-24 02:45:20.275 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 02:45:20.282 [info] > git config --get commit.template [6ms]
+2024-11-24 02:45:20.283 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-11-24 02:45:20.283 [warning] [Git][getBranch] No such branch: master
+2024-11-24 02:45:20.300 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2024-11-24 02:45:20.361 [info] > git status -z -uall [70ms]

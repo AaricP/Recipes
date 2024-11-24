@@ -1,0 +1,75 @@
+2024-11-23 19:09:20.651 [info] Extension host with pid 2322 started
+2024-11-23 19:09:20.779 [info] Lock '/home/ubuntu/.local/share/code-server/User/workspaceStorage/-2a1a7001/vscode.lock': Lock acquired.
+2024-11-23 19:09:21.385 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-11-23 19:09:21.541 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-23 19:09:21.760 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-11-23 19:09:22.148 [info] Eager extensions activated
+2024-11-23 19:09:22.149 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-23 19:09:22.149 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-23 19:09:23.238 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-23 19:09:23.800 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-11-23 19:10:59.340 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-11-23 19:11:59.884 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-11-23 19:25:08.594 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-11-23 19:26:28.410 [error] [vscode.emmet] provider FAILED
+2024-11-23 19:26:28.410 [error] TypeError: Cannot read properties of undefined (reading 'find')
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/var/app/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain.js:1:133873)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/var/app/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain.js:1:132232)
+	at UC.provideCompletionItems (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:137:139687)
+	at file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:137:162854
+	at qt.s (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:137:154141)
+	at qt.$provideCompletionItems (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:137:162842)
+	at py.S (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:117267)
+	at py.Q (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:117047)
+	at py.M (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:116098)
+	at py.L (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:115241)
+	at mh.value (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:114038)
+	at D.B (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.fire (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+	at Vn.fire (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:9457)
+	at mh.value (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:174:13300)
+	at D.B (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.fire (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+	at Vn.fire (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:9457)
+	at Fm.A (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:12573)
+	at mh.value (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:10993)
+	at D.B (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.fire (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+	at j5.acceptChunk (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:7940)
+	at mh.value (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:7226)
+	at D.B (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.fire (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+	at qP.z (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:21924)
+2024-11-23 19:26:45.250 [error] [vscode.emmet] provider FAILED
+2024-11-23 19:26:45.250 [error] TypeError: Cannot read properties of undefined (reading 'find')
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/var/app/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain.js:1:133873)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/var/app/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain.js:1:132232)
+	at UC.provideCompletionItems (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:137:139687)
+	at file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:137:162854
+	at qt.s (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:137:154141)
+	at qt.$provideCompletionItems (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:137:162842)
+	at py.S (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:117267)
+	at py.Q (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:117047)
+	at py.M (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:116098)
+	at py.L (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:115241)
+	at mh.value (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:114038)
+	at D.B (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.fire (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+	at Vn.fire (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:9457)
+	at mh.value (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:174:13300)
+	at D.B (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.fire (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+	at Vn.fire (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:9457)
+	at Fm.A (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:12573)
+	at mh.value (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:10993)
+	at D.B (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.fire (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+	at j5.acceptChunk (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:7940)
+	at mh.value (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:7226)
+	at D.B (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.fire (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+	at qP.z (file:///var/app/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:31:21924)
+2024-11-23 20:12:03.388 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-11-23 20:12:10.169 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-23 20:12:10.169 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-23 20:12:10.169 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
